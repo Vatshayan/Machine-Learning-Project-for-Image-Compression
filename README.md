@@ -11,6 +11,8 @@ In this Project, we will take a look at image compression using K-means clusteri
 
 An image is made up of several intensity values known as Pixels. In a colored image, each pixel is of 3 bytes containing RGB (Red-Blue-Green) values having Red intensity value, then Blue and then Green intensity value for each pixel.
 
-### Contact me (Vatshayan007@gmail.com) for project PPT, Synopsis and Research papers on this topic. 
+### Contact me (Vatshayan007@gmail.com) for project PPT, Synopsis, Code and Research papers on this topic. 
+
+#### I have a new Updated Python Code too. If anyone wants then mail me (Vatshayan007@gmail.com), I will happily send for your project :-)
 
 Let's Learn, work and Grow together !!
